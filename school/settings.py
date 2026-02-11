@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'school.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'project_db',#Name of the database created for this project
+        'NAME': 'projectsample_db',#Name of the database created for this project
         'USER': 'root',#Enter your mysql username
         'PASSWORD': '',#Enter your mysql password
         'HOST': 'localhost',
